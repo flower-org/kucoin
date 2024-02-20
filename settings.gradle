@@ -1,4 +1,3 @@
 rootProject.name = 'KucoinReader'
-include 'flower'
 include 'kucoin-client'
 include 'kucoin-reader'
